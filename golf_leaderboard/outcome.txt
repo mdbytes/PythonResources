@@ -1,0 +1,5 @@
+Rank	Name	Holes	Score	Prize
+1	lucy	18	59	WINNER
+2	jane	18	65	2nd Place
+3	bob	18	74	3rd Place
+4	martin	18	82	4th Place
