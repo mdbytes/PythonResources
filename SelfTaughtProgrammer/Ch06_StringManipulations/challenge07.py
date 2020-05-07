@@ -1,0 +1,1 @@
+print("Hemingway".index('m'))
