@@ -107,7 +107,7 @@ class Neural_Network (object):
 
 myNeuralNetwork = Neural_Network()
 trainingEpochs = 1000
-#trainingEpochs = 100000
+#trainingEpochs = 10000
 
 for i in range(trainingEpochs): # train myNeuralNetwork 1,000 times
   print ("Epoch # " + str(i) + "\n")
