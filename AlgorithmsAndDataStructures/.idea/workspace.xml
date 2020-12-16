@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fff04c2a-2627-46d6-934f-0771b96b4c65" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Playground/hello_world.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AlgorithmsAndDataStructures.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.spyproject/config/backups/codestyle.ini.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.spyproject/config/backups/encoding.ini.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.spyproject/config/backups/vcs.ini.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.spyproject/config/backups/workspace.ini.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.spyproject/config/codestyle.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.spyproject/config/defaults/defaults-codestyle-0.2.0.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.spyproject/config/defaults/defaults-encoding-0.2.0.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.spyproject/config/defaults/defaults-vcs-0.2.0.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.spyproject/config/defaults/defaults-workspace-0.2.0.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.spyproject/config/encoding.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.spyproject/config/vcs.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.spyproject/config/workspace.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch1_Python_Review/01_Fraction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch1_Python_Review/02_Logic_Gate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch2_AlgorithmAnalysis/01_SumOfN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_01_Stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_02_ParChecker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_03_DivideBy2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_04_BaseConverter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_05_InfixToPostfix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_06_InfixToPrefix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_07_Queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_08_HotPotato.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_09_Deque.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_10_PalindromeChecker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_11_Node.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_12_UnorderedList.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_13_OrderedList.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch4_Recursion/Ch4_01_listsum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch4_Recursion/Ch4_02_IntegerToStringInBase.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch4_Recursion/Ch4_03_Turtle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch4_Recursion/Ch4_04_IntroToRecursion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch4_Recursion/Ch4_05_ProblemSolving.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch4_Recursion/Ch4_06_MoreRecursiveAlgorithms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch4_Recursion/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch5_SearchingAndSorting/Ch5_01_SequentialSearch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch5_SearchingAndSorting/Ch5_02_OrderedSequentialSearch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch5_SearchingAndSorting/Ch5_03_BinarySearch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch5_SearchingAndSorting/Ch5_04_BubbleSort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch5_SearchingAndSorting/Ch5_05_SelectionSort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch5_SearchingAndSorting/Ch5_06_InsertionSort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch5_SearchingAndSorting/Ch5_07_MergeSort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch5_SearchingAndSorting/Ch5_08_QuickSort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch5_SearchingAndSorting/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch6_Trees/Ch6_01_BinaryTree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch6_Trees/Ch6_02_ParseTree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch6_Trees/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch99_Challenges/Ch001_DecodeThis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch99_Challenges/__init__.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hsj6EM9GgeP03aglU1oA8tDSn1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PriceMonitoringService" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SoftwareRepository\PythonCodingSolutions\AlgorithmsAndDataStructures\Ch4_Recursion" />
+      <recent name="D:\SoftwareRepository\PythonCodingSolutions\AlgorithmsAndDataStructures\Ch3_BasicDataStructures" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Ch001_DecodeThis">
+    <configuration name="Ch001_DecodeThis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmsAndDataStructures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch99_Challenges" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch99_Challenges/Ch001_DecodeThis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ch5_06_InsertionSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmsAndDataStructures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch5_SearchingAndSorting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch5_SearchingAndSorting/Ch5_06_InsertionSort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ch5_07_MergeSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmsAndDataStructures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch5_SearchingAndSorting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch5_SearchingAndSorting/Ch5_07_MergeSort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ch5_08_QuickSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmsAndDataStructures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch5_SearchingAndSorting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch5_SearchingAndSorting/Ch5_08_QuickSort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ch6_01_BinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmsAndDataStructures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch6_Trees" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch6_Trees/Ch6_01_BinaryTree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Ch001_DecodeThis" />
+        <item itemvalue="Python.Ch6_01_BinaryTree" />
+        <item itemvalue="Python.Ch5_08_QuickSort" />
+        <item itemvalue="Python.Ch5_07_MergeSort" />
+        <item itemvalue="Python.Ch5_06_InsertionSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fff04c2a-2627-46d6-934f-0771b96b4c65" name="Default Changelist" comment="" />
+      <created>1600806516618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600806516618</updated>
+      <workItem from="1600806517924" duration="14894000" />
+      <workItem from="1600958577539" duration="13336000" />
+      <workItem from="1601050513681" duration="9881000" />
+      <workItem from="1601388201539" duration="7982000" />
+      <workItem from="1605819762389" duration="24000" />
+      <workItem from="1608155326973" duration="858000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2320" y="169" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600962801741">
+      <screen x="1920" y="-360" width="2560" height="1400" />
+    </state>
+    <state x="2320" y="169" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1600962801741" />
+    <state x="3001" y="-137" key="FileChooserDialogImpl" timestamp="1605819782277">
+      <screen x="1920" y="-762" width="3072" height="1688" />
+    </state>
+    <state x="3001" y="-137" key="FileChooserDialogImpl/0.0.1920.1040/1920.-762.3072.1688@1920.-762.3072.1688" timestamp="1605819782277" />
+    <state width="1310" height="407" key="GridCell.Tab.0.bottom" timestamp="1601410197578">
+      <screen x="1920" y="-360" width="2560" height="1400" />
+    </state>
+    <state width="1853" height="316" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-360.2560.1400@0.0.1920.1040" timestamp="1600806842219" />
+    <state width="1310" height="407" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1601410197578" />
+    <state width="1310" height="407" key="GridCell.Tab.0.center" timestamp="1601410197578">
+      <screen x="1920" y="-360" width="2560" height="1400" />
+    </state>
+    <state width="1853" height="316" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-360.2560.1400@0.0.1920.1040" timestamp="1600806842219" />
+    <state width="1310" height="407" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1601410197578" />
+    <state width="1310" height="407" key="GridCell.Tab.0.left" timestamp="1601410197578">
+      <screen x="1920" y="-360" width="2560" height="1400" />
+    </state>
+    <state width="1853" height="316" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-360.2560.1400@0.0.1920.1040" timestamp="1600806842219" />
+    <state width="1310" height="407" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1601410197578" />
+    <state width="1310" height="407" key="GridCell.Tab.0.right" timestamp="1601410197578">
+      <screen x="1920" y="-360" width="2560" height="1400" />
+    </state>
+    <state width="1853" height="316" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-360.2560.1400@0.0.1920.1040" timestamp="1600806842219" />
+    <state width="1310" height="407" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1601410197578" />
+    <state width="1310" height="407" key="GridCell.Tab.1.bottom" timestamp="1601410197579">
+      <screen x="1920" y="-360" width="2560" height="1400" />
+    </state>
+    <state width="1310" height="407" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1601410197579" />
+    <state width="1310" height="407" key="GridCell.Tab.1.center" timestamp="1601410197579">
+      <screen x="1920" y="-360" width="2560" height="1400" />
+    </state>
+    <state width="1310" height="407" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1601410197579" />
+    <state width="1310" height="407" key="GridCell.Tab.1.left" timestamp="1601410197578">
+      <screen x="1920" y="-360" width="2560" height="1400" />
+    </state>
+    <state width="1310" height="407" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1601410197578" />
+    <state width="1310" height="407" key="GridCell.Tab.1.right" timestamp="1601410197579">
+      <screen x="1920" y="-360" width="2560" height="1400" />
+    </state>
+    <state width="1310" height="407" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1601410197579" />
+    <state x="1920" y="-144" key="SettingsEditor" timestamp="1600974000078">
+      <screen x="1920" y="-360" width="2560" height="1400" />
+    </state>
+    <state x="1920" y="-144" key="SettingsEditor/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1600974000078" />
+    <state x="2237" y="-362" width="1009" height="1470" key="search.everywhere.popup" timestamp="1600813070380">
+      <screen x="1920" y="-360" width="2560" height="1400" />
+    </state>
+    <state x="2237" y="-362" width="1009" height="1470" key="search.everywhere.popup/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1600813070380" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch5_02_OrderedSequentialSearch.coverage" NAME="Ch5_02_OrderedSequentialSearch Coverage Results" MODIFIED="1601051890600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch5_SearchingAndSorting" />
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch6_01_BinaryTree.coverage" NAME="Ch6_01_BinaryTree Coverage Results" MODIFIED="1601392434573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch6_Trees" />
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch3_10_PalindromeChecker.coverage" NAME="Ch3_10_PalindromeChecker Coverage Results" MODIFIED="1600961507777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch3_BasicDataStructures" />
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch4_04_IntroToRecursion.coverage" NAME="Ch4_04_IntroToRecursion Coverage Results" MODIFIED="1600967155274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch4_Recursion" />
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch3_02_ParChecker__1_.coverage" NAME="Ch3_02_ParChecker (1) Coverage Results" MODIFIED="1600806842200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch3_BasicDataStructures" />
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch3_03_DivideBy2.coverage" NAME="Ch3_03_DivideBy2 Coverage Results" MODIFIED="1600807553945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch3_BasicDataStructures" />
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch5_06_InsertionSort.coverage" NAME="Ch5_06_InsertionSort Coverage Results" MODIFIED="1601060508302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch5_SearchingAndSorting" />
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch5_05_SelectionSort.coverage" NAME="Ch5_05_SelectionSort Coverage Results" MODIFIED="1601059937473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch5_SearchingAndSorting" />
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch4_05_ProblemSolving.coverage" NAME="Ch4_05_ProblemSolving Coverage Results" MODIFIED="1600974289861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch4_Recursion" />
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch_03_08_HotPotato.coverage" NAME="Ch_03_08_HotPotato Coverage Results" MODIFIED="1600960394805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch3_BasicDataStructures" />
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch5_08_QuickSort.coverage" NAME="Ch5_08_QuickSort Coverage Results" MODIFIED="1601388928800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch5_SearchingAndSorting" />
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch5_04_BubbleSort.coverage" NAME="Ch5_04_BubbleSort Coverage Results" MODIFIED="1601058894414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch5_SearchingAndSorting" />
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch3_12_UnorderedList.coverage" NAME="Ch3_12_UnorderedList Coverage Results" MODIFIED="1600964185173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch3_BasicDataStructures" />
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch3_04_BaseConverter.coverage" NAME="Ch3_04_BaseConverter Coverage Results" MODIFIED="1600808590681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch3_BasicDataStructures" />
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch5_07_MergeSort.coverage" NAME="Ch5_07_MergeSort Coverage Results" MODIFIED="1601062192471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch5_SearchingAndSorting" />
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch3_13_OrderedList.coverage" NAME="Ch3_13_OrderedList Coverage Results" MODIFIED="1600964777595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch3_BasicDataStructures" />
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch4_06_MoreRecursiveAlgorithms.coverage" NAME="Ch4_06_MoreRecursiveAlgorithms Coverage Results" MODIFIED="1600978195641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch4_Recursion" />
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch5_03_BinarySearch.coverage" NAME="Ch5_03_BinarySearch Coverage Results" MODIFIED="1601057264015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch5_SearchingAndSorting" />
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch03_02_ParChecker.coverage" NAME="Ch03_02_ParChecker Coverage Results" MODIFIED="1600806793299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch3_BasicDataStructures" />
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch4_02_IntegerToStringInBase.coverage" NAME="Ch4_02_IntegerToStringInBase Coverage Results" MODIFIED="1600965769096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch4_Recursion" />
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch5_01_SequentialSearch.coverage" NAME="Ch5_01_SequentialSearch Coverage Results" MODIFIED="1601051811593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch5_SearchingAndSorting" />
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch3_06_InfixToPrefix.coverage" NAME="Ch3_06_InfixToPrefix Coverage Results" MODIFIED="1600959213645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch3_BasicDataStructures" />
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch001_DecodeThis.coverage" NAME="Ch001_DecodeThis Coverage Results" MODIFIED="1601408762696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch99_Challenges" />
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch3_05_InfixToPostfix.coverage" NAME="Ch3_05_InfixToPostfix Coverage Results" MODIFIED="1600817987426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch3_BasicDataStructures" />
+    <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch4_03_Turtle.coverage" NAME="Ch4_03_Turtle Coverage Results" MODIFIED="1600966318119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch4_Recursion" />
+  </component>
+</project>
