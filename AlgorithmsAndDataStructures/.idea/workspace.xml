@@ -2,64 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fff04c2a-2627-46d6-934f-0771b96b4c65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Playground/hello_world.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AlgorithmsAndDataStructures.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.spyproject/config/backups/codestyle.ini.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.spyproject/config/backups/encoding.ini.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.spyproject/config/backups/vcs.ini.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.spyproject/config/backups/workspace.ini.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.spyproject/config/codestyle.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.spyproject/config/defaults/defaults-codestyle-0.2.0.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.spyproject/config/defaults/defaults-encoding-0.2.0.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.spyproject/config/defaults/defaults-vcs-0.2.0.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.spyproject/config/defaults/defaults-workspace-0.2.0.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.spyproject/config/encoding.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.spyproject/config/vcs.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.spyproject/config/workspace.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch1_Python_Review/01_Fraction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch1_Python_Review/02_Logic_Gate.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch2_AlgorithmAnalysis/01_SumOfN.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_01_Stack.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_02_ParChecker.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_03_DivideBy2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_04_BaseConverter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_05_InfixToPostfix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_06_InfixToPrefix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_07_Queue.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_08_HotPotato.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_09_Deque.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_10_PalindromeChecker.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_11_Node.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_12_UnorderedList.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/Ch3_13_OrderedList.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch3_BasicDataStructures/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch4_Recursion/Ch4_01_listsum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch4_Recursion/Ch4_02_IntegerToStringInBase.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch4_Recursion/Ch4_03_Turtle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch4_Recursion/Ch4_04_IntroToRecursion.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch4_Recursion/Ch4_05_ProblemSolving.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch4_Recursion/Ch4_06_MoreRecursiveAlgorithms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch4_Recursion/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch5_SearchingAndSorting/Ch5_01_SequentialSearch.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch5_SearchingAndSorting/Ch5_02_OrderedSequentialSearch.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch5_SearchingAndSorting/Ch5_03_BinarySearch.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch5_SearchingAndSorting/Ch5_04_BubbleSort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch5_SearchingAndSorting/Ch5_05_SelectionSort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch5_SearchingAndSorting/Ch5_06_InsertionSort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch5_SearchingAndSorting/Ch5_07_MergeSort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch5_SearchingAndSorting/Ch5_08_QuickSort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch5_SearchingAndSorting/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch6_Trees/Ch6_01_BinaryTree.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch6_Trees/Ch6_02_ParseTree.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch6_Trees/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch99_Challenges/Ch001_DecodeThis.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch99_Challenges/__init__.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MDBytes.us/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PriceMonitoringService" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DataStructuresAlgorithmsPython" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
@@ -232,6 +176,8 @@
       <workItem from="1601388201539" duration="7982000" />
       <workItem from="1605819762389" duration="24000" />
       <workItem from="1608155326973" duration="858000" />
+      <workItem from="1610020211786" duration="21000" />
+      <workItem from="1612283170583" duration="36000" />
     </task>
     <servers />
   </component>
@@ -239,58 +185,11 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2320" y="169" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600962801741">
-      <screen x="1920" y="-360" width="2560" height="1400" />
+    <state x="901" y="518" key="FileChooserDialogImpl" timestamp="1612283204655">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="2320" y="169" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1600962801741" />
-    <state x="3001" y="-137" key="FileChooserDialogImpl" timestamp="1605819782277">
-      <screen x="1920" y="-762" width="3072" height="1688" />
-    </state>
-    <state x="3001" y="-137" key="FileChooserDialogImpl/0.0.1920.1040/1920.-762.3072.1688@1920.-762.3072.1688" timestamp="1605819782277" />
-    <state width="1310" height="407" key="GridCell.Tab.0.bottom" timestamp="1601410197578">
-      <screen x="1920" y="-360" width="2560" height="1400" />
-    </state>
-    <state width="1853" height="316" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-360.2560.1400@0.0.1920.1040" timestamp="1600806842219" />
-    <state width="1310" height="407" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1601410197578" />
-    <state width="1310" height="407" key="GridCell.Tab.0.center" timestamp="1601410197578">
-      <screen x="1920" y="-360" width="2560" height="1400" />
-    </state>
-    <state width="1853" height="316" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-360.2560.1400@0.0.1920.1040" timestamp="1600806842219" />
-    <state width="1310" height="407" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1601410197578" />
-    <state width="1310" height="407" key="GridCell.Tab.0.left" timestamp="1601410197578">
-      <screen x="1920" y="-360" width="2560" height="1400" />
-    </state>
-    <state width="1853" height="316" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-360.2560.1400@0.0.1920.1040" timestamp="1600806842219" />
-    <state width="1310" height="407" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1601410197578" />
-    <state width="1310" height="407" key="GridCell.Tab.0.right" timestamp="1601410197578">
-      <screen x="1920" y="-360" width="2560" height="1400" />
-    </state>
-    <state width="1853" height="316" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-360.2560.1400@0.0.1920.1040" timestamp="1600806842219" />
-    <state width="1310" height="407" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1601410197578" />
-    <state width="1310" height="407" key="GridCell.Tab.1.bottom" timestamp="1601410197579">
-      <screen x="1920" y="-360" width="2560" height="1400" />
-    </state>
-    <state width="1310" height="407" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1601410197579" />
-    <state width="1310" height="407" key="GridCell.Tab.1.center" timestamp="1601410197579">
-      <screen x="1920" y="-360" width="2560" height="1400" />
-    </state>
-    <state width="1310" height="407" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1601410197579" />
-    <state width="1310" height="407" key="GridCell.Tab.1.left" timestamp="1601410197578">
-      <screen x="1920" y="-360" width="2560" height="1400" />
-    </state>
-    <state width="1310" height="407" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1601410197578" />
-    <state width="1310" height="407" key="GridCell.Tab.1.right" timestamp="1601410197579">
-      <screen x="1920" y="-360" width="2560" height="1400" />
-    </state>
-    <state width="1310" height="407" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1601410197579" />
-    <state x="1920" y="-144" key="SettingsEditor" timestamp="1600974000078">
-      <screen x="1920" y="-360" width="2560" height="1400" />
-    </state>
-    <state x="1920" y="-144" key="SettingsEditor/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1600974000078" />
-    <state x="2237" y="-362" width="1009" height="1470" key="search.everywhere.popup" timestamp="1600813070380">
-      <screen x="1920" y="-360" width="2560" height="1400" />
-    </state>
-    <state x="2237" y="-362" width="1009" height="1470" key="search.everywhere.popup/0.0.1920.1040/1920.-360.2560.1400@1920.-360.2560.1400" timestamp="1600813070380" />
+    <state x="3001" y="-137" key="FileChooserDialogImpl/0.0.1920.1040/1920.-762.3072.1688@1920.-762.3072.1688" timestamp="1610020230141" />
+    <state x="901" y="518" key="FileChooserDialogImpl/3840.710.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1612283204655" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AlgorithmsAndDataStructures$Ch5_02_OrderedSequentialSearch.coverage" NAME="Ch5_02_OrderedSequentialSearch Coverage Results" MODIFIED="1601051890600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch5_SearchingAndSorting" />
