@@ -44,8 +44,9 @@ def calculate_stats(rainfall):
 
 def display_results(stats):
     print("Rainfall Statistics")
+    print("")
     for stat in stats:
         print('{:>10}  {:>10}'.format(stat,stats[stat]))
-
+    print("")
 
 main()
