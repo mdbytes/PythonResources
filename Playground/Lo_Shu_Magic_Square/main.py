@@ -23,7 +23,10 @@ def test_square(square):
     sums = []
     for i in range(0,3):
         for j in range(0,3):
-
+            if square[i][j] in nums:
+                nums.remove(square[i][j])
+            else:
+                return (False,"The square is not comprised of the numbers 1 to 9")
             row_sum += square[i][j]
             col_sum += square[j][i]
             if i == j:
@@ -40,13 +43,14 @@ def test_square(square):
         col_sum = 0
     sums.append(diag_one_sum)
     sums.append(diag_two_sum)
+
     return sum_test(sums)        
 
 def sum_test(sums):
-    for i in range(1,len(sums)-1):
-        if sums[i] != sums[i-1]:
-            return (False,"The sums are not equal")
-    return (True,"The sums are equal and the numbers between 1 and 9")
+    # for i in range(1,len(sums)-1):
+    #     if sums[i] != sums[i-1]:
+    #         return (False,"The sums are not equal")
+    # return (True,"The sums are equal and the numbers between 1 and 9")
 
 def display(result):
     if result[0]:
